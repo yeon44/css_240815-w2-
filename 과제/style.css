@@ -1,0 +1,92 @@
+@charset "utf-8";
+.class_01 {
+  color: white;
+}
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.yellow {
+  background: yellow;
+}
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+.violet {
+  background-color: violet;
+}
+.purple {
+  background-color: purple;
+}
+.black {
+  background-color: black;
+}
+
+#img_02 {
+  background-color: #ff0;
+}
+#img_05 {
+  background-color: #f90;
+}
+#img_07 {
+  background-color: #6af;
+}
+
+.ex_04 > ul > .menu1 > ul > .history > a {
+  background-color: #f00;
+  color: white;
+}
+.ex_04 > ul > .menu3 > ul > .notice > a {
+  color: white;
+  background-color: #08f;
+}
+
+.facebook {
+  width: 125px;
+  height: 125px;
+  transition: background-color 1s;
+}
+.facebook:hover {
+  background-color: #00f;
+}
+
+.instagram {
+  width: 125px;
+  height: 125px;
+  transition: background-color 1s;
+}
+.instagram:hover {
+  background-color: #f70;
+}
+
+.pinterest {
+  width: 125px;
+  height: 125px;
+  transition: background-color 1s;
+}
+.pinterest:hover {
+  background-color: #c00;
+}
+
+.twitter {
+  width: 125px;
+  height: 125px;
+  transition: background-color 1s;
+}
+.twitter:hover {
+  background-color: #08f;
+}
+
+.youtube {
+  width: 125px;
+  height: 125px;
+  transition: background-color 1s;
+}
+.youtube:hover {
+  background-color: #f00;
+}
