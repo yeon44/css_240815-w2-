@@ -1,0 +1,10 @@
+@charset "utf-8";
+.class_selector {
+  color: white;
+}
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
